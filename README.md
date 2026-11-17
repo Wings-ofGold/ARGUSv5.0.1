@@ -95,7 +95,7 @@ Python packages (installed automatically from `requirements.txt`):
 
 ```powershell
 git clone https://github.com/Wings-ofGold/ARGUS.git
-cd ARGUS
+cd ARGUSv5.0.1
 
 python -m venv venv
 venv\Scripts\activate
@@ -117,7 +117,7 @@ streamlit run app.py
 sudo apt update && sudo apt install -y python3 python3-venv python3-pip git
 
 git clone https://github.com/Wings-ofGold/ARGUS.git
-cd ARGUS
+cd ARGUSv5.0.1
 
 python3 -m venv venv
 source venv/bin/activate
